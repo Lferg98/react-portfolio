@@ -10,7 +10,7 @@
 ## Description
 A React portfolio page featuring my projects during the Monash University Coding Boot-camp. The portfolio also has a link to download my current resume.
 
-[Link to deployed application](https://lferg98.github.io/react-portfolio/)
+[Link to deployed application]()
 
 ![Screenshot](src/assets/appscreenshot.JPG "Portfolio Screenshot")
 
